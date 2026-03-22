@@ -13,7 +13,6 @@ Orijinal Java uygulamasından yola çıkılarak, esnek çapraz platform (cross-p
 
 * **Çapraz Platform Desteği (Cross-Platform):** Sadece Windows'ta değil; **macOS** ve **Linux** işletim sistemlerinde de Terminal üzerinden sorunsuz çalışır.
 * **Seçmeli (Selective) Sıfırlama:** Sistemdeki her şeyi bozmadan yalnızca sıfırlamak veya süre yenilemek istediğiniz (örneğin yalnızca PyCharm ve GoLand) belirli ürünleri seçebilirsiniz.
-* 
 ---
 
 ## 🛠 Desteklenen Ürünler (Supported Products)
